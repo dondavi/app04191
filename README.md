@@ -60,5 +60,3 @@ If you would like to test the production build by running `http-server`, use
 npm run serve:prd
 ```
 
-## Contributions
-Feel free to open an issue or create a PR.
